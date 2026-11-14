@@ -4,7 +4,7 @@ I build backend systems and infrastructure, mostly around APIs, data, and distri
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dinkar-pathak-347361281/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:dkcan00@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?logo=google-chrome\&logoColor=white)](https://portfolio-96x.pages.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?logo=google-chrome\&logoColor=white)](https://dinkar30.github.io)
 
 
 ---
